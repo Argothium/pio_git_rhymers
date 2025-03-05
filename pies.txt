@@ -1,6 +1,6 @@
-1, 2, 1, 2
+jeden, dwa, jeden,  dwa
 Pewna pani miała pasa
-3, 4, 3, 4
+trzy, cztery, trzy, cztery
 Pies ten dziwne miał maniery.
 5 i 6, 5 i 6,
 Wcale lodów nie chciał jeść.
